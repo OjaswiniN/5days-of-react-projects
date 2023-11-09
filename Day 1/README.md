@@ -1,1 +1,1 @@
-### This project serves as a demonstration of a simple navbar component built using React. It can be used as a starting point for more complex React applications or as a reference for those learning React.
+# This project serves as a demonstration of a simple navbar component built using React. 
